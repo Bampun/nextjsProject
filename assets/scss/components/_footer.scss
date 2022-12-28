@@ -1,0 +1,12 @@
+.footer-wrapper {
+  background: #151b23;
+  padding: 70px 0;
+  .footer-inner {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  > div {
+    color: #fff;
+  }
+}
